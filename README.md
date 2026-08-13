@@ -67,3 +67,10 @@ The dashboard is structured into **5 dedicated analytical views**:
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/your-username/uber-dashboa
+   ## Screenshots
+
+![Screenshot 1](./Screenshot%202026-08-13%20180525.png)
+
+![Screenshot 2](./Screenshot%202026-08-13%20180605.png)
+
+![Screenshot 3](./Screenshot%202026-08-13%20180621.png)
