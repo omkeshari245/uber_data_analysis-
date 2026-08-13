@@ -65,8 +65,7 @@ The dashboard is structured into **5 dedicated analytical views**:
 ## 🚀 How to Open & Explore
 
 1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/uber-dashboa
+  git clone [https://github.com/your-username/uber-dashboard-analytics.git](https://github.com/your-username/uber-dashboard-analytics.git)
    ## Screenshots
 
 ![Screenshot 1](./Screenshot%202026-08-13%20180525.png)
